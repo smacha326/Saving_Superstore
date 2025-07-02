@@ -45,6 +45,14 @@ This helped show which areas of the business might be risky to keep.
 
 ---
 
+Interactive Dashboards
+
+- 👉 [Dashboard 1: Profit vs Loss Analysis](https://public.tableau.com/app/profile/sairamya.macha/viz/Book1_17458562594310/Dashboard3?publish=yes)
+- 👉 [Dashboard 2: Product Performance](https://public.tableau.com/app/profile/sairamya.macha/viz/Book1_17458562594310/Dashboard1?publish=yes)
+- 👉 [Dashboard 3: State-Level Advertising](https://public.tableau.com/app/profile/sairamya.macha/viz/Book1_17458562594310/Dashboard2_1?publish=yes)
+- 👉 [Dashboard 4: Return Rate vs Profit](https://public.tableau.com/app/profile/sairamya.macha/viz/Book2_17460462965160/Sheet3?publish=yes)
+
+
 ## Tools Used
 - Tableau
 - Excel / Google Sheets
